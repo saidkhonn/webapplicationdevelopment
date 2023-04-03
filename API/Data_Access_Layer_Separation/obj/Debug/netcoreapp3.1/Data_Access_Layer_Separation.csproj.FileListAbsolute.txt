@@ -1,0 +1,10 @@
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\bin\Debug\netcoreapp3.1\Data_Access_Layer_Separation.deps.json
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\bin\Debug\netcoreapp3.1\Data_Access_Layer_Separation.dll
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\bin\Debug\netcoreapp3.1\Data_Access_Layer_Separation.pdb
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.csproj.AssemblyReference.cache
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.AssemblyInfoInputs.cache
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.AssemblyInfo.cs
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.csproj.CoreCompileInputs.cache
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.dll
+E:\Users\00012035\Desktop\webapplicationdevelopment\API\Data_Access_Layer_Separation\obj\Debug\netcoreapp3.1\Data_Access_Layer_Separation.pdb

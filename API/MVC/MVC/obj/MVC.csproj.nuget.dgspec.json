@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\12035\\MVC\\MVC\\MVC.csproj": {}
+    "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\MVC\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\12035\\MVC\\MVC\\MVC.csproj": {
+    "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\MVC\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\12035\\MVC\\MVC\\MVC.csproj",
+        "projectUniqueName": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\MVC\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "E:\\Coding\\12035\\MVC\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\12035\\MVC\\MVC\\obj\\",
+        "projectPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\MVC\\MVC\\MVC.csproj",
+        "packagesPath": "E:\\Users\\00012035\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\MVC\\MVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "E:\\Users\\00012035\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,8 +66,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

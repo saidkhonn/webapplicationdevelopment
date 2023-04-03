@@ -8,5 +8,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Data_Access_Layer_Separation\Data_Access_Layer_Separation.csproj" />
+  </ItemGroup>
+
 
 </Project>
