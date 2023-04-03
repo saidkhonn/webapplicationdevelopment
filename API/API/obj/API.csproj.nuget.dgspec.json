@@ -1,20 +1,93 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\12035\\API\\API\\API.csproj": {}
+    "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\12035\\API\\API\\API.csproj": {
+    "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\12035\\API\\API\\API.csproj",
+        "projectUniqueName": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Coding\\12035\\API\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\12035\\API\\API\\obj\\",
+        "projectPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\API\\API.csproj",
+        "packagesPath": "E:\\Users\\00012035\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "E:\\Users\\00012035\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\Data_Access_Layer_Separation\\Data_Access_Layer_Separation.csproj": {
+                "projectPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\Data_Access_Layer_Separation\\Data_Access_Layer_Separation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\Data_Access_Layer_Separation\\Data_Access_Layer_Separation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\Data_Access_Layer_Separation\\Data_Access_Layer_Separation.csproj",
+        "projectName": "Data_Access_Layer_Separation",
+        "projectPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\Data_Access_Layer_Separation\\Data_Access_Layer_Separation.csproj",
+        "packagesPath": "E:\\Users\\00012035\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\00012035\\Desktop\\webapplicationdevelopment\\API\\Data_Access_Layer_Separation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\00012035\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,32 +112,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.32, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
